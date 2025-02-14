@@ -16,6 +16,7 @@
 //
 //	return b
 //}
+// without race condition
 
 package main
 
